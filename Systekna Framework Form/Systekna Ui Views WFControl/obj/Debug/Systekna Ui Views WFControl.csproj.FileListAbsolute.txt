@@ -1,0 +1,13 @@
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\bin\Debug\Systekna Ui Views WFControl.dll
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\bin\Debug\Systekna Ui Views WFControl.pdb
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna Ui Views WFControl.csprojAssemblyReference.cache
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna Ui Views WFControl.csproj.GenerateResource.cache
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna Ui Views WFControl.csproj.CoreCompileInputs.cache
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna Ui Views WFControl.dll
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna Ui Views WFControl.pdb
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna_Ui_Views_WFControl.ViewsLogins.LoginViews.resources
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna_Ui_Views_WFControl.ViewsToolBox.toolFooter.resources
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna_Ui_Views_WFControl.ViewsToolBox.toolHeader.resources
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna_Ui_Views_WFControl.ViewsToolBox.toolMenu.resources
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna.WFControl.Views.HomeViews.resources
+D:\Systekna\Development\Net\Projects\Systekna Ui Windows Form\Systekna Ui Views WFControl\obj\Debug\Systekna_Ui_Views_WFControl.Properties.Resources.resources
